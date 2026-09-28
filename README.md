@@ -306,15 +306,6 @@ I'm a **B.Tech AI & Data Science student** with a **Diploma in IT**, passionate 
 
 ---
 
-## 🔥 Contribution & Activity Streaks
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=samrudhikulkarni05&theme=dark&background=0d1117&ring=00D9FF&fire=FF6B00&currStreakLabel=00D9FF)](https://github.com/samrudhikulkarni05)
-
-</div>
-
----
 
 ## 🏅 Key Achievements & Highlights
 
